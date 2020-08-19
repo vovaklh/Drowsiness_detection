@@ -13,5 +13,5 @@ If the EAR is less than our threshold value for some time we can assume that per
 > git clone https://github.com/vovaklh/Drowsiness_detection.git
 2. Secondly install needed libraries 
 > pip install -r requirements.txt
-3. You can use your shape-preictor or own signal 
+3. You can use your shape-predictor or own signal 
 > python Drowsiness_detection.py --predictor (path_to_your_predictor) --siren (path_to_signal)
