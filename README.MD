@@ -1,5 +1,5 @@
 # Description
-[![IMAGE ALT TEXT HERE](Examples\Drowsiness_detection.png)](https://www.youtube.com/watch?v=x0uZSMxxW0Y)
+[![IMAGE ALT TEXT HERE](Examples/Drowsiness_detection.png)](https://www.youtube.com/watch?v=x0uZSMxxW0Y)
 
 This application is used to detect drowsinnes. The source code was taken from
 [pyimagesearch](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/).
